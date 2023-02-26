@@ -13,6 +13,8 @@ $YIN and $YANG and deflationnary reflect tokens, meaning that on each transfer, 
 - 1% is added as protocol owned liquidity.
 - 2% is given as an offering to the [Temple](./temple.md).
 
+The supply of both token is **10,000,000**, with an emission rate of **10,000** per day.
+
 ## Application structure
 
 The application is composed of the following elements:
